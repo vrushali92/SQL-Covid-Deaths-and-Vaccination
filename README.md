@@ -1,1 +1,1 @@
-# SQL_CovidDeaths_and_Vaccination
+# SQL: CovidDeaths and Vaccination.
