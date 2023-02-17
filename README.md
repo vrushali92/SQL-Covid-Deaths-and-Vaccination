@@ -1,10 +1,29 @@
 # SQL: CovidDeaths and Vaccination.
 
 This project analyzes death & vaccination count worldwide. The data used in this project lies between 2020-01-01 and 2021-04-30.
+The details helps to analyze the death and vaccination count by country, continent, infection percentage and many more
 
-It appears that the data has changed in the souce. Below is the link:
+# What was done?
+- Cleaning
+- Analyzing death count by country and continent
+- Countries with highest infection rate
+- Vaccinations as per date and location
 
-Link to Dataset: https://ourworldindata.org/covid-deaths
+# Credits:
+
+Here is the link: Link to Dataset: https://ourworldindata.org/covid-deaths. This is the guided project from AlextheAnalyst Youtube channel: https://github.com/AlexTheAnalyst/PortfolioProjects/blob/main/COVID%20Portfolio%20Project%20-%20Data%20Exploration.sql
+
+# Files
+
+- Code: SQLQuery1 in `.sql` 
+- Data: CovidDeaths and CovidVaccination in `.csv`
+
+# Setup
+
+- Azure Data Studio
+- Docker
+
+# Dataset desciption
 
 Columns in the dataset:
 
